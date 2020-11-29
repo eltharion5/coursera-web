@@ -1,0 +1,71 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #000000; 
+	font-family: 'Oxygen', sans-serif;
+}
+
+/* NAVBAR STYLING */
+/* BRAND */
+/* default brand styling */
+.navbar-default .navbar-brand {
+	color: #848080;
+	font-size: 2em;
+	font-weight: bold;
+}
+.navbar-default {
+	background-color: #363636;
+}
+
+#yellowbrand {
+	background-color: #ff9900;
+	border-radius: 5px;
+	color: #010100;
+}
+#whitebrand {
+	color: #ffffff;
+	font-size: 
+}
+
+#header-nav {
+	border-radius: 0;
+	background-color: #363636; 
+}
+
+#bs-example-navbar-collapse-1 ul {
+	background-color: #545454;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#bs-example-navbar-collapse-1 span {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+/* navbar styling  button*/
+div.navbar-header button {
+	background-color: #ff9900; /* yellow */
+	border-width: 0;
+}
+
+/* icon bar styling */
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #010100; /* black */
+}
+
+/* menu item styling */
+.menu-item .menu-item-margin{
+	background-color: #363636;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.menu-item-title{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
